@@ -1,0 +1,30 @@
+
+
+  .my-card{
+    background-color: rgb(235, 227, 227);
+    
+  }
+  mat-card {
+    max-width: 400px;
+    margin: 2em auto;
+    text-align: center;
+    background: rgb(245, 244, 243);
+  }
+  
+  mat-form-field {
+    display: block;
+  }
+  .example-section{
+    text-align: left;
+  }
+
+  .reg-Container{
+    background-image: url('/assets/images/Reg-image.jpg');
+    background-position:50% 50%;
+    height:60em; 
+    background-size:cover; width:auto;
+  }
+  .mat-toolbar {
+    background: #d4c6c6;
+    color: rgba(0,0,0,.87);
+}
